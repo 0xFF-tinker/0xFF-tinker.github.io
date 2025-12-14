@@ -3,7 +3,7 @@
 # Chaitanya Rangavajhala – Engineering Leader
 Quantitative Platforms | Securitized Products | Distributed Systems
 
-**New York, NY** · [Email](mailto:crangavajhala@gmail.com) · [LinkedIn](https://www.linkedin.com/in/chaitanya-rangavajhala) · [GitHub](https://github.com/0xFF-tinker)
+**New York, NY** · [Email](mailto:crangavajhala@gmail.com) · [LinkedIn](https://www.linkedin.com/in/chaitanya-rangavajhala)
 
 Engineering leader with 15+ years building and owning large-scale front-office platforms for pricing, risk, and quantitative analytics in fixed-income and securitized products.
 
