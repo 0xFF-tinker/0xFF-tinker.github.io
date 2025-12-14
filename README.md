@@ -1,35 +1,39 @@
-# Chaitanya Rangavajhala – Engineering Leader
+# Chaitanya Rangavajhala – Engineering Leader  
 Quantitative Platforms | Securitized Products | Distributed Systems
 
 **New York, NY** · [Email](mailto:crangavajhala@gmail.com) · [LinkedIn](https://www.linkedin.com/in/chaitanya-rangavajhala)
 
-Engineering leader with 15+ years building large-scale front-office platforms for pricing, risk, and quantitative analytics in fixed-income and securitized products.
+Engineering leader with 15+ years of experience building and owning large-scale front-office platforms for pricing, risk, and quantitative analytics in fixed-income and securitized products.
 
-I've led global teams delivering systems for Sales & Trading, Quants, and Risk — from real-time loan-level valuation on 150M+ assets to reproducible research environments for thousands of users.
+Led global engineering teams delivering systems for Sales & Trading, Quants, and Risk — from real-time loan-level valuation across 150M+ assets to reproducible research environments used by thousands of practitioners.
 
-Hands-on with distributed systems, cloud-native infrastructure, real-time streaming, and open-source tooling. Deep domain experience in Securitized Products (agency/non-agency MBS, CMBS, ABS, CRT, and whole loans).
+Hands-on background in distributed systems, cloud-native infrastructure, and real-time streaming platforms, combined with deep domain expertise in securitized products (agency/non-agency MBS, CMBS, ABS, CRT, and whole loans).
 
 ---
 
 ## Platform Leadership & Modernization
 
-I've led the modernization of enterprise-scale real-time data and analytics platforms, scaling them for high-volume workloads while improving reliability and developer velocity.
+Led modernization of enterprise-scale real-time data and analytics platforms, scaling them for high-volume workloads while improving reliability, operability, and developer velocity.
 
-- Integrated open-source solutions to reduce technical debt and accelerate delivery.
-- Drove gradual cloud-native transformations for better maintainability and resilience.
-- Built secure, reproducible environments to support quantitative research and production analytics.
+**Focus areas included:**
+- **Real-time streaming platforms:** Evolved messaging abstractions from application-embedded clients to platform-managed consumption models, balancing latency, reliability, operational ownership, and developer experience at scale.
+- **Temporal & AsOf data access:** Designed systems supporting consistent historical and real-time views, informed by bi-temporal financial data models and unified intraday/end-of-day architectures.
+- **Scalable storage & caching:** Applied distributed caching and in-memory compute patterns to support low-latency analytics, with change-driven propagation to maintain consistency under load.
+- **Change data capture & propagation:** Leveraged source-level CDC patterns to enable low-latency updates while addressing ordering guarantees, schema evolution, and recovery scenarios.
+
+Modernization efforts were guided by cloud-native and operational best practices aligned with the CNCF ecosystem.
 
 ---
 
 ## Open-Source Contributions
 
-Most of my work is proprietary, but I contribute to open-source when it solves meaningful problems at scale:
+Most professional work has been in proprietary systems; however, I contribute to open-source projects where it meaningfully improves scale, performance, or observability.
 
-- **BinderHub** (Kubernetes-native platform, for reproducible quant notebook platform )  
-  Community maintainer; responsible for enterprise-scale adoption and integrations.
+- **BinderHub** (Kubernetes-native research platform)  
+  Community maintainer with responsibility for ongoing development, enterprise integrations, and operational reliability.
 
 - **Vitess** (CNCF-graduated distributed database)  
-  Authored and merged pull requests improving query performance and observability (adopted in large-scale deployments):  
+  Authored and merged upstream pull requests improving query performance and observability, adopted in large-scale production environments:  
   - https://github.com/vitessio/vitess/pull/18903  
   - https://github.com/vitessio/vitess/pull/17342  
   - https://github.com/vitessio/vitess/pull/17508  
@@ -37,13 +41,13 @@ Most of my work is proprietary, but I contribute to open-source when it solves m
 
 ---
 
-## Private Work (Access on Request)
+## Private Work
 
-Happy to share my repo upon request via email or LinkedIn (for collaboration).
+Most platform work has been proprietary; architectural approaches, design trade-offs, and lessons learned are discussed conceptually and in an NDA-compliant manner.
 
 ---
 
-## Let's Connect
+## Contact
 
 - **GitHub:** https://github.com/0xFF-tinker  
 - **LinkedIn:** https://www.linkedin.com/in/chaitanya-rangavajhala  
