@@ -51,6 +51,5 @@ Most platform work has been proprietary; architectural approaches, design trade-
 
 ## Let's Connect
 
-- **GitHub:** https://github.com/0xFF-tinker
 - **LinkedIn:** https://www.linkedin.com/in/chaitanya-rangavajhala
 - **Email:** crangavajhala@gmail.com
