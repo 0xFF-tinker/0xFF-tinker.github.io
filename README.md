@@ -34,7 +34,7 @@ Most work is proprietary, but I contribute to open-source when it solves meaning
   Community maintainer with responsibility for ongoing development, enterprise integrations, and operational reliability.
 
 - **Vitess** (CNCF-graduated distributed database)  
-  Authored and merged upstream pull requests improving query performance and observability, adopted in large-scale production environments:
+  Authored and merged upstream pull requests improving query planner performance and observability, adopted in large-scale production environments:
 
   - https://github.com/vitessio/vitess/pull/18903
   - https://github.com/vitessio/vitess/pull/17342
