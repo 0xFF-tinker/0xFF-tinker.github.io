@@ -26,6 +26,20 @@ Focus areas included:
 
 ---
 
+### Hybrid Python–C++ Quant Engine Architecture
+
+Designed and owned production quantitative engines for front-office valuation, risk, and scenario analysis in securitized products — blending a **Python modeling layer** (shim with custom extensions) for rapid iteration and user overrides with a **high-performance C++ core** for compute-intensive projections.
+
+- **Python Layer (Shim & Custom Extensions)**:  
+  Built expressive Python DSL enabling custom prepayment S-curves, CDR vectors, loss-severity schedules, HPA forecasts, and scenario overrides — delivering rapid prototyping, reproducibility, and model governance for quants and analysts.
+
+- **C++ Core Engine**:  
+  Implemented low-latency, matrix-oriented projection engine in modern C++ for path-dependent stochastic simulations (Monte Carlo paths), optimized for numerical stability, parallel execution, and scalability across millions of securities.
+
+This hybrid approach achieves **developer velocity and modeling flexibility** (Python) with **deterministic performance and reliability** (C++) — a best-practice pattern in leading quantitative finance platforms.
+
+---
+
 ## Open-Source Contributions
 
 Most work is proprietary, but I contribute to open-source when it solves meaningful problems at scale:
@@ -40,6 +54,9 @@ Most work is proprietary, but I contribute to open-source when it solves meaning
   - https://github.com/vitessio/vitess/pull/17342
   - https://github.com/vitessio/vitess/pull/17508
   - https://github.com/vitessio/vitess/pull/17468
+  - https://github.com/vitessio/vitess/pull/19000
+
+These contributions reflect production-driven improvements developed and validated in large-scale financial systems, then generalized and upstreamed to the open-source community.
 
 ---
 
